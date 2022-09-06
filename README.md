@@ -12,7 +12,7 @@ Software designer and developer from the Universidad del Valle (Cali | Colombia)
 ### Languages/Tools:
 <strong> Front</strong>
 <p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=40px alt="HTML logo vector">
-<p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=40px alt="CSS logo vector">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=40px alt="CSS logo vector">
 
 
 
