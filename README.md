@@ -13,10 +13,17 @@ Software designer and developer from the Universidad del Valle (Cali | Colombia)
 <strong> Front</strong>
 <p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=40px alt="HTML logo vector">
 <img class="larger" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=40px alt="CSS logo vector">
-<img class="larger" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap logo vector">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width=40px alt="Bootstrap logo vector">
   
 <strong> Back</strong>
-<p>a
+<p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width=40px alt="PHP logo vector">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width=40px alt="Laravel logo vector">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width=40px alt="Python logo vector">
+  
+<strong> Databases</strong>
+<p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width=40px  alt="MySQL logo vector">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width=40px  alt="MongoDB Icon logo vector">
+  
 
 
 
