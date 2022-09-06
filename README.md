@@ -16,7 +16,7 @@ Software designer and developer from the Universidad del Valle (Cali | Colombia)
 <img class="larger" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width=46px alt="Bootstrap logo vector">
   
 <strong> Back</strong>
-<p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width=40px alt="PHP logo vector">
+<p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width=60px alt="PHP logo vector">
 <img class="larger" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width=40px alt="Laravel logo vector">
 <img class="larger" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width=40px alt="Python logo vector">
   
