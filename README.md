@@ -23,6 +23,10 @@ Software designer and developer from the Universidad del Valle (Cali | Colombia)
 <strong> Databases</strong>
 <p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width=40px  alt="MySQL logo vector">
 <img class="larger" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width=46px  alt="MongoDB Icon logo vector">
+
+<strong> Tools</strong>
+<p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width=40px alt="Visual Studio Code logo vector">
+  <img class="larger" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width=40px alt="GitHub Icon logo vector">
   
 
 
