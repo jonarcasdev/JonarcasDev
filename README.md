@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Jonathan
-Software designer and developer from the Universidad del Valle (Cali | Colombia) in training.
+Im Software designer and developer from the Universidad del Valle (Cali | Colombia) in training.
 
 - 🔭 I’m currently working on: <a href="https://github.com/JonarcasDev/CRUD">CRUD IN PHP | LARAVEL</a>
 - 🌱 I’m currently learning: <strong> PHP | LARAVEL </strong>
