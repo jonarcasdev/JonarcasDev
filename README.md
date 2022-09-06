@@ -26,10 +26,10 @@ Software designer and developer from the Universidad del Valle (Cali | Colombia)
 
 <strong> Tools</strong>
 <p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width=40px alt="Visual Studio Code logo vector">
-<img class="larger" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab logo vector">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width=40px alt="GitLab logo vector">
   
 <strong> OS</strong>
-<P><img class="larger" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Tux logo vector">
+<P><img class="larger" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width=40px alt="Linux Tux logo vector">
   
 
 
