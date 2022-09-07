@@ -1,17 +1,15 @@
-### Hi there 👋 My name is Jonathan
-Im Software designer and developer from the Universidad del Valle (Cali | Colombia) in training.
+### About
+My name is Jonathan, Im a software developer student from the Universidad del Valle (Cali | Colombia) in the process of formation.
 
 - 🔭 I’m currently working on: <a href="https://github.com/JonarcasDev/CRUD">CRUD IN PHP | LARAVEL</a>
 - 🌱 I’m currently learning: <strong> PHP | LARAVEL </strong>
 - 👯 I’m looking to collaborate on: <strong> Web projects in the university </strong>
-- 📫 How to reach me: <strong> jonarcasdev@gmail.com </strong>
 - 😄 Pronouns: <strong> He | Him</strong>
 
 ### Languages/Tools:
 <strong> Front</strong>
 <p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=40px alt="HTML logo vector">
 <img class="larger" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=40px alt="CSS logo vector">
-<img class="larger" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width=46px alt="Bootstrap logo vector">
   
 <strong> Back</strong>
 <p><img class="larger" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width=60px alt="PHP logo vector">
@@ -28,7 +26,6 @@ Im Software designer and developer from the Universidad del Valle (Cali | Colomb
   
 <strong> OS</strong>
 <P><img class="larger" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width=40px alt="Linux Tux logo vector">
-  
 
 
 
