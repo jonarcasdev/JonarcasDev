@@ -1,5 +1,5 @@
 <h1 align="center">About</h1>
-My name is Jonathan, Im a software developer student from the Universidad del Valle (Cali | Colombia) in the process of training.
+My name is Jonathan, Im a software developer student in the process of training.
 
 -  Send me an email: jonarcasdev@gmail.com
 -  I’m currently working on: <a href="https://github.com/JonarcasDev/CRUD">CRUD IN PHP | LARAVEL</a>
