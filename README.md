@@ -4,7 +4,6 @@ My name is Jonathan, Im a software developer student from the Universidad del Va
 -  Send me an email: jonarcasdev@gmail.com
 -  I’m currently working on: <a href="https://github.com/JonarcasDev/CRUD">CRUD IN PHP | LARAVEL</a>
 -  I’m currently learning: <strong> PHP and Laravel </strong>
--  Pronouns: <strong> He | Him</strong>
 -  Fun Fact: <strong> Pentester by hobby and skyrim player</strong>
 
 <!--
