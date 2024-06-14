@@ -10,6 +10,6 @@
 
 
 ---
-<center>[![](https://visitcount.itsvg.in/api?id=jonarcasdev&icon=6&color=2)](https://visitcount.itsvg.in)<center>
+[![](https://visitcount.itsvg.in/api?id=jonarcasdev&icon=6&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
